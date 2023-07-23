@@ -1,9 +1,4 @@
-/*!
- * Bootstrap v4.3.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9404,7 +9399,7 @@ textarea.form-control {
     background: rgba(25, 25, 25, 0.7);
     border-radius: 50%;
     position: relative; 
-    margin-right: -6px;
+    margin-right: 5px;
     margin-top: -60px;
   }
     .ftco-footer-social li a span {
@@ -9748,13 +9743,13 @@ textarea.form-control {
 
 
       footer{
-        background: #999999;
+        background: #343a40;
         padding: 15px 0;
         text-align: center;
         font-family: 'Poppins', sans-serif;
       }
       footer .media-icons a{
-        color: yellow;
+        color: var(--yellow);
         font-size: 30px;
         margin: 0 15px;
       }
