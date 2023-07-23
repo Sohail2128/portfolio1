@@ -9747,18 +9747,18 @@ textarea.form-control {
 
 
       footer{
-        background: #0a1f5a;
+        background: #999999;
         padding: 15px 0;
         text-align: center;
         font-family: 'Poppins', sans-serif;
       }
       footer .media-icons a{
-        color: white;
+        color: yellow;
         font-size: 30px;
         margin: 0 15px;
       }
       footer .media-icons a:hover{
-        color: black;
+        color: white;
       }
       footer .text span{
         font-size: 17px;
